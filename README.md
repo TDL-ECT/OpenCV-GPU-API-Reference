@@ -1,8 +1,8 @@
 ## OpenCV-GPU-API-Reference
 
-本项目是对OpenCV的GPU模块API等参考文档进行汉化，详细细节如下：
+本项目是对OpenCV的GPU模块API等参考文档进行汉化，详情如下：
 
-OpenCV版本：OPenCV 2.4.13
+OpenCV版本：OpenCV-2.4.13
 
 官方文档：[http://docs.opencv.org/2.4/modules/gpu/doc/gpu.html][1]
 
@@ -24,7 +24,7 @@ OpenCV版本：OPenCV 2.4.13
 
 > 注： 1. 有意文档翻译的通知，请邮箱联系我：
 
-- `译者`：[**Derek**][6]
+- `译者`：[**Derek**][3]
 - `邮箱`：**jingshuang_hu@163.com**
 
 
@@ -32,4 +32,10 @@ OpenCV版本：OPenCV 2.4.13
 [1]: http://docs.opencv.org/2.4/modules/gpu/doc/gpu.html
 
 [2]: https://github.com/TDL-ECT/OpenCV-GPU-API-Reference/blob/master/Chapter%201%EF%BC%9AGPU%E6%A8%A1%E5%9D%97%E4%BB%8B%E7%BB%8D.md
+
+[3]: https://github.com/hujingshuang
+
+
+
+
 
